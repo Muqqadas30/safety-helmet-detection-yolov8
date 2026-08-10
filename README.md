@@ -26,3 +26,6 @@ Python, Google Colab, Google Drive, YOLOv8 (Ultralytics), Roboflow, OpenCV, Matp
 - Recall: 0.940
 - mAP@0.5: 0.963
 - mAP@0.5:0.95: 0.766
+
+ ## Demo Link
+ https://app.roboflow.com/muqqadas-iftikhar/safety-helmet-detection-e4zru/models/muqqadas-iftikhar/safety-helmet-yolov8
